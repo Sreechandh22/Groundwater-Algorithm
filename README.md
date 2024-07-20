@@ -41,7 +41,7 @@ Two main scripts were developed to perform the analysis:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/Groundwater-Analysis-Nepal.git
+    git clone https://github.com/Sreechandh22/Groundwater-Algorithm.git
     cd Groundwater-Analysis-Nepal
     ```
 
