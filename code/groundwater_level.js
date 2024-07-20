@@ -1,3 +1,5 @@
+//Sreechandh Devireddy
+
 // Define a region of interest as a point
 var point = ee.Geometry.Point(84.25616666666667, 27.675);
 
